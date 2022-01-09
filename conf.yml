@@ -1,0 +1,4 @@
+train_test_split: 0.10
+lag: 2
+LSTM_layer_depth: 128
+epochs: 2000
